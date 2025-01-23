@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Simon Rock."
 email: "simon@simonrock.com"
-description: >
-  I'm a project manager, event organizer, film producer, and more! 
-  I'm based in Montréal, QC, Canada!! 
-  My website is under construction, stay tuned to see all of my cool projects!
+description: 
+  d1: I'm a project manager, event organizer, film producer, and more! 
+  d2: I'm based in Montréal, QC, Canada!! 
+  d3: My website is under construction, stay tuned to see all of my cool projects!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://simonrock.com" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'jamigibbs'
