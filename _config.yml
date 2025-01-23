@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Simon Rock."
 email: "simon@simonrock.com"
-description: |
+description: >
   I'm a project manager, event organizer, film producer, and more! 
   I'm based in Montréal, QC, Canada!! 
   My website is under construction, stay tuned to see all of my cool projects!
