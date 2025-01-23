@@ -16,9 +16,9 @@
 title: "Hello. I'm Simon Rock."
 email: 'simon@simonrock.com'
 description: """I'm a project manager, event organizer, film producer, and more! 
-<br>
-I'm based in Montréal, QC, Canada.
-<br>
+\n
+I'm based in Montréal, QC, Canada!!
+\n
 My website is under construction, stay tuned to see all of my cool projects!""" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://simonrock.com" # the base hostname & protocol for your site, e.g. https://example.com
